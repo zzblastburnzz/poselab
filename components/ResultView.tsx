@@ -1,0 +1,1 @@
+// Dummy content for ResultView.tsx
